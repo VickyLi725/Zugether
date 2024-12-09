@@ -1,0 +1,12 @@
+@media (min-width:767px) {
+    .memberWrapper[b-39e33xhvum] {
+        min-width: 200px !important;
+        max-width: 200px !important;
+    }
+}
+
+.list-group-item.active[b-39e33xhvum] {
+    background-color: #1c2434 !important;
+    color: var(--secondary) !important;
+}
+

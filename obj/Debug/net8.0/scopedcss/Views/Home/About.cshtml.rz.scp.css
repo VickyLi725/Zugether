@@ -1,0 +1,33 @@
+@media (max-width:992px) {
+    .aboutContent[b-exn85o5kmm]{
+        width: 100% !important;
+    }
+    
+}
+
+.aboutContent[b-exn85o5kmm] {
+    background-image: url('/images/aboutBg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 75%;
+}
+
+.aboutTxt[b-exn85o5kmm] {
+    background-color: #ecdf121f;
+    font-size: 20px;
+}
+    
+
+    @media (max-width:768px) {
+        .aboutTxt[b-exn85o5kmm] {
+            max-height: 450px;
+            overflow-y: scroll;
+        }
+    }
+
+    @media(max-width: 500px) {
+        .aboutTxt[b-exn85o5kmm] {
+            font-size: 18px;
+        }
+    }

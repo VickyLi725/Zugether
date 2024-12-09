@@ -1,0 +1,28 @@
+.alertWrapper[b-x4ggn8vayb] {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alert[b-x4ggn8vayb] {
+    width: 50%;
+    font-size: 28px;
+}
+.alert-icon[b-x4ggn8vayb] {
+    font-size: 50px;
+    margin-bottom: 16px;
+}
+
+@media (max-width:'768px') {
+    .alert[b-x4ggn8vayb] {
+        width: 75%;
+        font-size: 24px;
+    }
+}

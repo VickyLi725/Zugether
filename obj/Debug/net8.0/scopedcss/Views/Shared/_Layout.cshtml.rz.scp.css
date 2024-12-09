@@ -1,0 +1,146 @@
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+main[b-jh096q02rg]{
+    min-height:calc(100vh - 93px - 199px);
+}
+
+.navbar[b-jh096q02rg] {
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+.menu[b-jh096q02rg] {
+    display: flex;
+    list-style: none;
+    margin: 0;
+}
+
+.nav-item[b-jh096q02rg] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px;
+}
+
+.nav-item:hover[b-jh096q02rg] {
+    background-color: #bc9b44;
+    border-radius: 50px;
+}
+
+.navLink[b-jh096q02rg] {
+    display: block;
+    text-decoration: none;
+}
+
+    .navLink:hover[b-jh096q02rg] {
+        color: white !important;
+    }
+
+.burger[b-jh096q02rg] {
+    display: none;
+    width: 25px;
+    cursor: pointer;
+}
+
+.bar[b-jh096q02rg] {
+    width: 100%;
+    height: 3px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: #bc9b44;
+    transition: .3s ease-in;
+}
+
+@media (max-width:768px) {
+    .menu[b-jh096q02rg] {
+        position: absolute;
+        top: -500px;
+        right: 0;
+        z-index: 1000;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        transition: .3s ease-in;
+    }
+
+        .menu.active[b-jh096q02rg] {
+            top: 80px;
+        }
+
+    .nav-item:hover[b-jh096q02rg] {
+        border-radius: 0;
+        background-color: #bc9b44;
+    }
+
+    .burger[b-jh096q02rg] {
+        display: block;
+    }
+
+        .burger.active .bar:nth-child(2)[b-jh096q02rg] {
+            opacity: 0;
+        }
+
+        .burger.active .bar:nth-child(1)[b-jh096q02rg] {
+            transform: rotate(-45deg) translate(-5px, 6px);
+        }
+
+        .burger.active .bar:nth-child(3)[b-jh096q02rg] {
+            transform: rotate(45deg) translate(-5px, -6px);
+        }
+}
+
+
+.pages a[b-jh096q02rg],.contact a[b-jh096q02rg]{
+    color:white !important;
+}
+
+.pages a:hover[b-jh096q02rg] {
+     background-color: #bc9b44;
+     border-radius:50px
+}
+    .contact a:hover[b-jh096q02rg] {
+        color: #bc9b44;
+}
+
+.thirdParty:hover[b-jh096q02rg] {
+    background: #e9ecef;
+}
+#remember[b-jh096q02rg] {
+    cursor: pointer;
+}
+
+.rememberHover:hover[b-jh096q02rg] {
+    cursor: pointer;
+    color: darkblue;
+}
+
+#forgetPWbtn:hover[b-jh096q02rg] {
+    color: darkblue;
+}
+
+#PWBox[b-jh096q02rg] {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+    #PWBox input[b-jh096q02rg] {
+        width: 100%;
+        padding-right: 40px;
+        /*給圖標留空間 */
+        box-sizing: border-box;
+    }
+
+    #PWBox .toggle-icon[b-jh096q02rg] {
+        position: absolute;
+        top: 50%;
+        right: 10px;
+        /* 圖標距離輸入框右側的距離*/
+        transform: translateY(-50%);
+        cursor: pointer;
+        color: #666;
+        font-size: 1.2rem;
+        z-index: 3;
+    }

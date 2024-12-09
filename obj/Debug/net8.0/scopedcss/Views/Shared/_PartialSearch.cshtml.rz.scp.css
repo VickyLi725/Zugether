@@ -1,0 +1,35 @@
+.offcanvas[b-4eya3lpkba] {
+    visibility: visible !important;
+}
+
+@media (max-width:768px) {
+    .offcanvas.show .btn-search[b-4eya3lpkba] {
+        display: none;
+    }
+    .btn-search[b-4eya3lpkba] {
+        right: -46px !important;
+    }
+}
+
+.btn-search[b-4eya3lpkba] {
+top: 250px;
+right: -49px;
+/*left: 0;*/
+padding:15px 10px;
+-webkit-writing-mode: vertical-lr;
+writing-mode: vertical-lr;
+border-radius: 0 10px 10px 0;
+letter-spacing: 5px;
+}
+
+.range[b-4eya3lpkba] {
+    accent-color: var(--primary) !important;
+}
+.searchLabel:hover[b-4eya3lpkba] {
+    color: red;
+    cursor:pointer;
+}
+
+.searchCheckbox:checked + span[b-4eya3lpkba] {
+  
+}

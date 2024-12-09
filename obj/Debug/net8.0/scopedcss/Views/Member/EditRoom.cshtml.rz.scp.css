@@ -1,0 +1,15 @@
+.btn-delete[b-4xs4utylq8] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(50%,-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+}
+
+.roomPhoto[b-4xs4utylq8] {
+    height: 250px;
+}

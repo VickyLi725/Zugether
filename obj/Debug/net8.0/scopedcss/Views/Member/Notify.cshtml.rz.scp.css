@@ -1,0 +1,49 @@
+.approved-card[b-fl9b2we14n] {
+    background-color: #fff3ee;
+}
+
+/* 按鈕基本樣式 */
+#agreeBtn[b-fl9b2we14n], #cencelBtn[b-fl9b2we14n] {
+    white-space: nowrap;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    padding: 10px 15px;
+    transition: all 0.3s ease; /* 平滑過渡效果 */
+}
+
+    /* 同意按鈕展開樣式 */
+    #agreeBtn.expanded[b-fl9b2we14n] {
+        width: auto;
+        padding: 10px 30px;
+    }
+
+/* 取消同意按鈕展開樣式 */
+#disAgreeBtn.expanded[b-fl9b2we14n] {
+    width: auto;
+    padding: 10px 30px;
+}
+
+/*目前無通知*/
+.no-notification[b-fl9b2we14n] {
+    text-align: center;
+    color: #999;
+    margin-top: 20px;
+}
+
+
+.hide[b-fl9b2we14n] {
+    display: none;
+}
+
+
+.border-danger[b-fl9b2we14n] {
+    height: 150px;
+    background-color: rgb(241, 174, 181);
+}
+
+.border-success[b-fl9b2we14n] {
+    height: 150px;
+    background-color: rgb(163, 207, 187);
+}

@@ -1,0 +1,211 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Zugether
+build_property.RootNamespace = Zugether
+build_property.ProjectDir = D:\資策會總課程_MSIT60\大專題\Zugether-v13_(20241204update)\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\資策會總課程_MSIT60\大專題\Zugether-v13_(20241204update)
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/Analytics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQW5hbHl0aWNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/ArticleCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXJ0aWNsZUNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/ArticleDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXJ0aWNsZURlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/ArticleEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXJ0aWNsZUVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/Articles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXJ0aWNsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/ContactDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGFjdERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/Contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGFjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/ContactView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGFjdFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/MemberDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWVtYmVyRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/MemberEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWVtYmVyRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/Members.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWVtYmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/RoomDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUm9vbURlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/RoomEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUm9vbUVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Admin/Rooms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUm9vbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Member/EditPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEVkaXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Member/FavoriteRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEZhdm9yaXRlUm9vbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Search/RoomList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXFJvb21MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_PartialLoading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsTG9hZGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_PartialMemberModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsTWVtYmVyTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_PartialNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_PartialPageTitle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsUGFnZVRpdGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_PartialReplyModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsUmVwbHlNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_PartialRoomCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsUm9vbUNhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_PartiaNotify_InviteeMemberList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFOb3RpZnlfSW52aXRlZU1lbWJlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_PartiaNotify_OnlyInviterMemberList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFOb3RpZnlfT25seUludml0ZXJNZW1iZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Article/Content.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxDb250ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-4u2smloqyc
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Article/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-75bd6b067u
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-exn85o5kmm
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-dhbktrp0st
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-ableyp4df3
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-ku239994s4
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Member/AddRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEFkZFJvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-iuonfuuhbc
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Member/EditInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEVkaXRJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-24fz0qacg5
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Member/EditRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEVkaXRSb29tLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-4xs4utylq8
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Member/Notify.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXE5vdGlmeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-fl9b2we14n
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Search/Room.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXFJvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xx52ei8s74
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jh096q02rg
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_PartialAdminListGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsQWRtaW5MaXN0R3JvdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xwrcba2bnw
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_PartialAlert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsQWxlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-x4ggn8vayb
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_PartialGoTop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsR29Ub3AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-48wk9oppbe
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_PartialMemberListGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsTWVtYmVyTGlzdEdyb3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-39e33xhvum
+
+[D:/資策會總課程_MSIT60/大專題/Zugether-v13_(20241204update)/Views/Shared/_PartialSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-4eya3lpkba

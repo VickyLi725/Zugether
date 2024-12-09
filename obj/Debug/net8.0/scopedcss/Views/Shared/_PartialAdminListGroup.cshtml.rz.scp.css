@@ -1,0 +1,8 @@
+.adminWrapper[b-xwrcba2bnw] {
+    min-width: 200px !important;
+}
+
+.list-group-item.active[b-xwrcba2bnw] {
+    background-color: #1c2434 !important;
+    color: var(--secondary) !important;
+}
